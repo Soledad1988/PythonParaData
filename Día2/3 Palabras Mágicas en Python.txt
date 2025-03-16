@@ -1,0 +1,5 @@
+3 Palabras Mágicas en Python:
+
+1- type()
+2- dir()
+3- help()
